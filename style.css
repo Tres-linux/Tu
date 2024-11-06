@@ -1,0 +1,42 @@
+.Hey{
+    color: blueviolet;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: black;
+}
+.me{
+    color: blueviolet;
+}
+.male{
+    color: blueviolet;
+    font-size: 35px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.linea{
+    width: 600px;
+    height: 10px;
+    border-radius: 10px;
+}
+.shh{
+    color:blueviolet;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.random{
+    color: blueviolet;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ritardo{
+    color: blueviolet;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.voglia{
+    color: blueviolet;
+    font-size: 35px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
